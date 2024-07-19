@@ -13,5 +13,4 @@ The Special Program for Employment of Students (SPES) is a program initiated by 
 
     html, css, javascript, php
 # Screenshots
-![img](dist/img/home.png)
-![img](dist/img/home.png)
+![img](dist/img/home.PNG)![img](dist/img/admin.PNG)
